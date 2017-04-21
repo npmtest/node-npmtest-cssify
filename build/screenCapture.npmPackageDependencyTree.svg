@@ -1,0 +1,55 @@
+<svg height="830" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="830" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ cssify@1.0.3 </tspan>
+<tspan x="10" y="90">  ├─┬ css-modules-loader-core@1.0.1 </tspan>
+<tspan x="10" y="106">  │ ├── icss-replace-symbols@1.0.2 </tspan>
+<tspan x="10" y="122">  │ ├─┬ postcss@5.1.2 </tspan>
+<tspan x="10" y="138">  │ │ ├── js-base64@2.1.9 </tspan>
+<tspan x="10" y="154">  │ │ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="170">  │ │ └─┬ supports-color@3.2.3 </tspan>
+<tspan x="10" y="186">  │ │   └── has-flag@1.0.0 </tspan>
+<tspan x="10" y="202">  │ ├── postcss-modules-extract-imports@1.0.0 </tspan>
+<tspan x="10" y="218">  │ ├─┬ postcss-modules-local-by-default@1.1.1 </tspan>
+<tspan x="10" y="234">  │ │ └─┬ css-selector-tokenizer@0.6.0 </tspan>
+<tspan x="10" y="250">  │ │   ├── cssesc@0.1.0 </tspan>
+<tspan x="10" y="266">  │ │   ├── fastparse@1.1.1 </tspan>
+<tspan x="10" y="282">  │ │   └─┬ regexpu-core@1.0.0 </tspan>
+<tspan x="10" y="298">  │ │     ├── regenerate@1.3.2 </tspan>
+<tspan x="10" y="314">  │ │     ├── regjsgen@0.2.0 </tspan>
+<tspan x="10" y="330">  │ │     └─┬ regjsparser@0.1.5 </tspan>
+<tspan x="10" y="346">  │ │       └── jsesc@0.5.0 </tspan>
+<tspan x="10" y="362">  │ ├── postcss-modules-scope@1.0.2 </tspan>
+<tspan x="10" y="378">  │ └── postcss-modules-values@1.2.2 </tspan>
+<tspan x="10" y="394">  ├─┬ lodash.assign@3.2.0 </tspan>
+<tspan x="10" y="410">  │ ├─┬ lodash._baseassign@3.2.0 </tspan>
+<tspan x="10" y="426">  │ │ └── lodash._basecopy@3.0.1 </tspan>
+<tspan x="10" y="442">  │ ├─┬ lodash._createassigner@3.1.1 </tspan>
+<tspan x="10" y="458">  │ │ ├── lodash._bindcallback@3.0.1 </tspan>
+<tspan x="10" y="474">  │ │ ├── lodash._isiterateecall@3.0.9 </tspan>
+<tspan x="10" y="490">  │ │ └── lodash.restparam@3.6.1 </tspan>
+<tspan x="10" y="506">  │ └─┬ lodash.keys@3.1.2 </tspan>
+<tspan x="10" y="522">  │   ├── lodash._getnative@3.9.1 </tspan>
+<tspan x="10" y="538">  │   ├── lodash.isarguments@3.1.0 </tspan>
+<tspan x="10" y="554">  │   └── lodash.isarray@3.0.4 </tspan>
+<tspan x="10" y="570">  ├─┬ resolve@1.3.3 </tspan>
+<tspan x="10" y="586">  │ └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="602">  ├── string-hash@1.1.3 </tspan>
+<tspan x="10" y="618">  ├─┬ stringify-object@2.4.0 </tspan>
+<tspan x="10" y="634">  │ ├── is-plain-obj@1.1.0 </tspan>
+<tspan x="10" y="650">  │ └── is-regexp@1.0.0 </tspan>
+<tspan x="10" y="666">  └─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="682">    ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="698">    │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="714">    │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="730">    │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="746">    │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="762">    │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="778">    │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="794">    │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="810">    └── xtend@4.0.1</tspan>
+</text>
+</svg>
